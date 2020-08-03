@@ -1,16 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
 @import "status-bar.css";
 @import "header.css";
 @import "nav-bar.css";
 @import "profile.css";
-@import "finemenu.css";
+@import "findmenu.css";
 
 
 * {
     box-sizing: border-box;
-    font-family: 'Nanum Gothic', sans-serif;
 }
 
-body {
+.body {
     background-color: white;
+    padding: 10px 10px;
 }

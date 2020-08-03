@@ -6,9 +6,13 @@
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="reset.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css"
+    />
     <script src="https://kit.fontawesome.com/0121e95e8d.js" crossorigin="anonymous"></script>
 </head>
-<body>
+<body class="body">
     <div class="status-bar">
         <div class="status-bar_column">
             <span class="status-bar_clock">04:30</span>
@@ -34,19 +38,23 @@
 
     <div class="main">
         <div class="profile">
-            <div class="profile_pic">
-                <img class="pic" src="jordy.png">
+            <div class="profile_col">
+                <div class="profile_pic">
+                    <img class="pic" src="jordy.png">
+                </div>
+                <div>
+                    <div class="profile_name">Jordy</div>
+                    <div class="profile_message">Hello!!</div>
+                </div> 
             </div>
-            <div>
-                <div class="profile_name">Jordy</div>
-                <div class="profile_message">Hello!!</div>
-            </div> 
-            <span class="profile_time">yesterday</span>
+            <div class="profile_col">
+                <div class="profile_time">yesterday</div>
+            </div>           
         </div>
     </div>
 
     <div class="nav-bar">
-        <ul class="nav-bar_list">
+        <ul class="nav-bar_list animated slideInUp">
             <li class="friends">
                 <a href="friends-page.html">
                     <i class="far fa-user"></i>
@@ -63,7 +71,7 @@
                 </a>
             </li>
             <li class="settings">
-                <a href="settings-page.html">
+                <a href="more-page.html">
                     <i class="fas fa-ellipsis-h"></i>
                 </a>
             </li>

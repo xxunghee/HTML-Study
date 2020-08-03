@@ -1,5 +1,17 @@
-.findmenu {
-    justify-content: space-between;
+.findmenu_menu i {
+    font-size: 40px;
     margin: 20px;
-    font-size: 30px;
 }
+
+.findmenu_menu {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.findmenu {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+

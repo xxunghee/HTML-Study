@@ -6,9 +6,13 @@
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="reset.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css"
+    />
     <script src="https://kit.fontawesome.com/0121e95e8d.js" crossorigin="anonymous"></script>
 </head>
-<body>
+<body class="body">
     <div class="status-bar">
         <div class="status-bar_column">
             <span class="status-bar_clock">04:30</span>
@@ -33,49 +37,58 @@
 
     <div class="main">
         <div class="profile">
-            <div class="profile_pic">
-                <img src="scappy.png">
+            <div class="profile_col">
+                <div class="profile_pic">
+                    <img src="scappy.png">
+                </div>
+                <div>
+                    <div class="profile_name">Scappy</div>
+                    <div class="profile_message"></div>
+                </div>
             </div>
-            <div>
-                <div class="profile_name">Scappy</div>
-                <div class="profile_message"></div>
+            <div class="profile_col">
+                <div class="profile_etc">Watermelon Sugar - Harry...&nbsp;&nbsp;
+                    <i class="fas fa-play"></i>
+                </div>
             </div>
-            <span class="profile_etc">Watermelon Sugar - Harry...&nbsp;&nbsp;
-                <i class="fas fa-play"></i>
-            </span>
-        </div>
-        
+        </div>  
     </div>
 
     <div class="main"> Plus friend
         <div class="profile">
-            <div class="profile_pic">
-                <i class="fas fa-user-circle"></i>
-            </div>
-            <div>
-                <div class="profile_name">Plus Friend</div>
-                <div class="profile_message"></div>
+            <div class="profile_col">
+                <div class="profile_pic">
+                    <i class="fas fa-user-circle"></i>
+                </div>
+                <div>
+                    <div class="profile_name">Plus Friend</div>
+                    <div class="profile_message"></div>
+                </div>
             </div>
         </div>
     </div>
 
     <div class="main"> Friend 1
         <div class="profile">
-            <div class="profile_pic">
-                <img src="jordy.png">
+            <div class="profile_col">
+                <div class="profile_pic">
+                    <img src="jordy.png">
+                </div>
+                <div>
+                    <div class="profile_name">Jordy</div>
+                    <div class="profile_message">jojo=3</div>
+                </div> 
             </div>
-            <div>
-                <div class="profile_name">Jordy</div>
-                <div class="profile_message">jojo=3</div>
-            </div> 
-            <span class="profile_etc">다시 여기 바닷가 - 싹쓰리(...&nbsp;&nbsp;
-                <i class="fas fa-play"></i>
-            </span>
+            <div class="profile_col">
+                <div class="profile_etc">다시 여기 바닷가 - 싹쓰리(...&nbsp;&nbsp;
+                    <i class="fas fa-play"></i>
+                </div>
+            </div>
         </div>
     </div>
 
     <div class="nav-bar">
-        <ul class="nav-bar_list">
+        <ul class="nav-bar_list animated slideInUp">
             <li class="friends">
                 <a href="friends-page.html">
                     <i class="fas fa-user"></i>
@@ -92,7 +105,7 @@
                 </a>
             </li>
             <li class="settings">
-                <a href="settings-page.html">
+                <a href="more-page.html">
                     <i class="fas fa-ellipsis-h"></i>
                 </a>
             </li>
