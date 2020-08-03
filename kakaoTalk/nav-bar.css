@@ -1,0 +1,14 @@
+.nav-bar_list {
+    position: fixed;
+    width: 100%;
+    padding: 30px 50px;
+    left: 0px;
+    bottom: 0px;
+    background-color: #fcfcfc;
+    border-top: 1px solid #f7f7f7;
+
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+a { color: inherit; }
