@@ -1,6 +1,7 @@
 ## Kakao Talk Clone
 
 ### Friends
+![friends](https://user-images.githubusercontent.com/50495214/89259145-a0bc7380-d664-11ea-8b33-2f3e6393d588.PNG)
 - HTML
   - [friends-page.html](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/friends-page.html)
 - CSS
