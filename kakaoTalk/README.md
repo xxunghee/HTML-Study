@@ -1,7 +1,7 @@
 ## Kakao Talk Clone
+![screenshot](https://user-images.githubusercontent.com/50495214/89259357-1cb6bb80-d665-11ea-89ec-0d03c9d5d951.png)
 
 ### Friends
-![friends](https://user-images.githubusercontent.com/50495214/89259145-a0bc7380-d664-11ea-8b33-2f3e6393d588.PNG)
 - HTML
   - [friends-page.html](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/friends-page.html)
 - CSS
@@ -39,14 +39,23 @@
 ### More
 - HTML
   - [more-page.html](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/more-page.html)
-  - [settings-page.html](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/settings-page.html)
   
 - CSS
   - [options.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/options.css)
-  - [settings.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/settings.css)
   - [style.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/style.css)
   - [status-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/status-bar.css)
   - [header.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/header.css)
   - [profile.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/profile.css)
   - [nav-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/nav-bar.css)
+  - [reset.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/reset.css)
+
+### Settings
+- HTML
+  - [settings-page.html](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/settings-page.html)
+ 
+- CSS
+  - [settings.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/settings.css)
+  - [style.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/style.css)
+  - [status-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/status-bar.css)
+  - [header.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/header.css)
   - [reset.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/reset.css)
