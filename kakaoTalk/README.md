@@ -7,7 +7,7 @@
   - [style.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/style.css)
   - [status-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/status-bar.css)
   - [header.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/header.css)
-  - [main.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/main.css)
+  - [profile.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/profile.css)
   - [nav-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/nav-bar.css)
   - [reset.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/reset.css)
   
@@ -18,7 +18,7 @@
   - [style.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/style.css)
   - [status-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/status-bar.css)
   - [header.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/header.css)
-  - [main.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/main.css)
+  - [profile.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/profile.css)
   - [nav-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/nav-bar.css)
   - [reset.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/reset.css)
 
@@ -31,7 +31,7 @@
   - [style.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/style.css)
   - [status-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/status-bar.css)
   - [header.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/header.css)
-  - [main.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/main.css)
+  - [profile.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/profile.css)
   - [nav-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/nav-bar.css)
   - [reset.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/reset.css)
 
@@ -44,6 +44,6 @@
   - [style.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/style.css)
   - [status-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/status-bar.css)
   - [header.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/header.css)
-  - [main.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/main.css)
+  - [profile.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/profile.css)
   - [nav-bar.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/nav-bar.css)
   - [reset.css](https://github.com/xxunghee/htmlstudy/blob/master/kakaoTalk/reset.css)
