@@ -1,0 +1,36 @@
+.options {
+    display: flex;
+    justify-content: space-between;
+}
+
+.options-left {
+    display: flex;
+    justify-content: left;
+}
+
+.options_menu {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.options_menu i {
+    font-size: 40px;
+    margin: 20px;
+    opacity: 0.8;
+}
+
+.options_menu_margin {
+    margin: 0px 10px 30px 10px;
+}
+
+.options_menu_color i {
+    color: white;
+    background-color: #F7E04C;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    opacity: 1;
+    border-radius: 15%;
+    padding-top: 10px;
+}
