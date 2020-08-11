@@ -1,0 +1,11 @@
+.top {
+    border: 3px solid black;
+    display: flex;
+    
+    align-items: center;
+    font-size: 10px;
+}
+
+.top-img {
+    float: left;
+}

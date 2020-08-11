@@ -1,0 +1,11 @@
+@import "top.css";
+@import "header.css";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 1130px;
+    margin: 0px 130px;
+}

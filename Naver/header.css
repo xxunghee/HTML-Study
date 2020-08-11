@@ -1,0 +1,33 @@
+.header {
+    border: 3px solid sandybrown;
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    width: 231px;
+    height: 57px;
+}
+
+.header-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid #17CE5F;
+    width: 586px;
+    height: 57px;
+}
+
+.header-serch_input {
+    border: 0px solid;
+    width: 464px;
+}
+
+.header i {
+    opacity: 0.6;
+}
+
+.search-img {
+    width: 57px;
+    height: 57px;
+}
