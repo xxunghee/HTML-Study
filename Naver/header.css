@@ -1,12 +1,12 @@
 .header {
-    border: 3px solid sandybrown;
     display: flex;
     align-items: center;
+    padding-bottom: 52px;
 }
 
 .logo-img {
     width: 231px;
-    height: 57px;
+    height: 56px;
 }
 
 .header-search {
@@ -15,7 +15,7 @@
     align-items: center;
     border: 3px solid #17CE5F;
     width: 586px;
-    height: 57px;
+    height: 56px;
 }
 
 .header-serch_input {
@@ -28,6 +28,6 @@
 }
 
 .search-img {
-    width: 57px;
-    height: 57px;
+    width: 56px;
+    height: 56px;
 }
