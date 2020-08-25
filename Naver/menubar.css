@@ -4,6 +4,7 @@
     justify-content: space-around;
     border-top: 1px solid #D2D7DC;
     border-bottom: 1px solid #D2D7DC;
+    margin-bottom: 20px;
 }
 
 .menubar-menu {
@@ -14,10 +15,6 @@
     display: flex;
     justify-content: space-around;
     list-style-type: none;
-}
-
-.menubar-menu a {
-    text-decoration: none;
 }
 
 .menubar-color {

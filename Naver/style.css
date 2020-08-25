@@ -11,3 +11,7 @@ body {
     width: 1130px;
     margin: 0px 130px;
 }
+
+a {
+    text-decoration: none;
+}

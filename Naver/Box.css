@@ -10,3 +10,16 @@
 .rightBox {
   width: 352px;
 }
+
+.right-login {
+  height: 138px;
+  border: 1px solid #D2D7DC;
+  padding: 15px 17px;
+  background-color: #f8f9fb;
+  font-size: 13px;
+}
+
+.right-login-txt {
+  display: flex;
+  justify-content: space-between;
+}
