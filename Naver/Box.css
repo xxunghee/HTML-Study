@@ -1,0 +1,12 @@
+.Box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.leftBox {
+  width: 752px;
+}
+
+.rightBox {
+  width: 352px;
+}
